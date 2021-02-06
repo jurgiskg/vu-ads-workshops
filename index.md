@@ -1,24 +1,26 @@
-# ADS pratybos
+### Balai
 
 Pratybų metu galima surinkti iki 5 balų.
 - 4 balai už laboratorinius darbus
 - iki 1 balo už papildomus pasiekimus (mini užduotėlės, išankstiniai atsiskaitymai, kolegų ADT naudojimas, defektų radimas)
 
-Pratybose per kursą bus atsiskaitomi 4 laboratoriniai darbai. Egzaminą galima laikyti tik **atsiskaičius 3 laboratorinius**.
+Pratybose bus atsiskaitomi 4 laboratoriniai darbai. Egzaminą galima laikyti tik **atsiskaičius 3 laboratorinius darbus**.
 
-## Pratybų tvarka
+Pratybų metu renkami taškai. Kiekvieno taško vertė - 0,05 balo.
+
+### Pratybų tvarka
 
 1. Mini užduotėlė (išskyrus atsiskaitymo termino dieną)
 2. Klausimai, pageidavimai, teorijos aptarimas
 3. Laboratorinių atsiskaitymas
 
-## Mini užduotėlės
+### Mini užduotėlės
 
 Mini užduotėlės maksimali vertė - 2 taškai. Už nepilnai išspręstą užduotėlę galima gauti dalį taškų. Apie užduotėlę ir jos atlikimą pranešiu pratybų pradžioje.
 
-## Laboratorinių darbų atsiskaitymo tvarka
+### Laboratorinių darbų atsiskaitymo tvarka
 
-Laboratorinį darbą sudaro 2 dalys: programavimo užduotis ir PSP dokumentai. Už išankstinį atsiskaitymą galima gauti papildomų taškų, už vėlavimą taškai mažinami. Laboratorinių darbų atsiskaitymų tvarkaraštis su galimais gauti taškais (už programavimo dalį) [čia](##Užduočių-atsiskaitymo-tvarkaraštis).
+Laboratorinį darbą sudaro 2 dalys: programavimo užduotis ir PSP dokumentai. Už išankstinį atsiskaitymą galima gauti papildomų taškų, už vėlavimą taškai mažinami. Laboratorinių darbų atsiskaitymų tvarkaraštis su galimais gauti taškais (už programavimo dalį) [čia](#Užduočių-atsiskaitymo-tvarkaraštis).
 
 Atsiskaitant laboratorinį darbą reikia:
 
@@ -30,7 +32,7 @@ PSP dokumentų šablonus galite rasti Sauliaus Ragaišio [puslapyje](https://kle
 
 Atsiskaityti reikia daugiausiai per 2 pratybas. Nuo 3-ių pratybų už kiekviena papildomą atsiskaitymą skiriamas -1 taškas.
 
-## Galimos programavimo kalbos
+### Galimos programavimo kalbos
 
 2 ir 4 laboratoriniuose darbuose drąsiai galite rašyti programas su šiomis kalbomis:
 
