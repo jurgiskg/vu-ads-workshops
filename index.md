@@ -92,5 +92,5 @@ Bus atnaujinta.
 | 15  | 0   | 0   | 4   | 10  |
 
 # Naudingos nuorodos
-- teorijos dėstytojo Vytauto Valaičio puslapis - https://klevas.mif.vu.lt/~valaitis/
-- Sauliaus Ragaišio puslapis - https://klevas.mif.vu.lt/~ragaisis/
+- teorijos dėstytojo Vytauto Valaičio puslapis - [https://klevas.mif.vu.lt/~valaitis](https://klevas.mif.vu.lt/~valaitis/)
+- Sauliaus Ragaišio puslapis - [https://klevas.mif.vu.lt/~ragaisis/](https://klevas.mif.vu.lt/~ragaisis/)
