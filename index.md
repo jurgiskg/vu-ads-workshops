@@ -20,7 +20,7 @@ Mini užduotėlės maksimali vertė - 2 taškai. Už nepilnai išspręstą uždu
 
 ### Laboratorinių darbų atsiskaitymo tvarka
 
-Laboratorinį darbą sudaro 2 dalys: programavimo užduotis ir PSP dokumentai. Už išankstinį atsiskaitymą galima gauti papildomų taškų, už vėlavimą taškai mažinami. Laboratorinių darbų atsiskaitymų tvarkaraštis su galimais gauti taškais (už programavimo dalį) [čia](#Užduočių-atsiskaitymo-tvarkaraštis).
+Laboratorinį darbą sudaro 2 dalys: programavimo užduotis ir PSP dokumentai. Už išankstinį atsiskaitymą galima gauti papildomų taškų, už vėlavimą taškai mažinami. Laboratorinių darbų atsiskaitymų tvarkaraštis su galimais gauti taškais (už programavimo dalį) puslapio apačioje.
 
 Atsiskaitant laboratorinį darbą reikia:
 
