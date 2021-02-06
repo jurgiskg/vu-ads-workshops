@@ -1,3 +1,5 @@
+## ADS pratybos
+
 ### Balai
 
 Pratybų metu galima surinkti iki 5 balų.
@@ -44,7 +46,7 @@ Atsiskaityti reikia daugiausiai per 2 pratybas. Nuo 3-ių pratybų už kiekviena
 
 Jei norite rašyti kita kalba, parašykite man per Teams.
 
-# 1 laboratorinis darbas
+## 1 laboratorinis darbas
 
 Reikalingas PSP dokumentas - LFF.
 
@@ -64,16 +66,16 @@ Papildomos galimybės už ADT gauti taškus:
 
 > Yra galimybė dviese kurti  _ilgo sveiko skaičiaus_ duomenų tipą (max 2 žmonės pogrupyje). Jeigu yra norinčių, susisiekite su manim.
 
-# 2 laboratorinis darbas
+## 2 laboratorinis darbas
 Bus atnaujinta.
 
-# 3 laboratorinis darbas
+## 3 laboratorinis darbas
 Bus atnaujinta.
 
-# 4 laboratorinis darbas
+## 4 laboratorinis darbas
 Bus atnaujinta.
 
-# Užduočių atsiskaitymo tvarkaraštis
+## Užduočių atsiskaitymo tvarkaraštis
 
 | Pratybos  | 1 užd. | 2 užd. | 3 užd. | 4 užd. |
 | --------- | ------ | ------ | ------ | ------ |
@@ -93,6 +95,6 @@ Bus atnaujinta.
 | **14**  | 0   | 1   | 8   | **12**  |
 | 15  | 0   | 0   | 4   | 10  |
 
-# Naudingos nuorodos
+## Naudingos nuorodos
 - teorijos dėstytojo Vytauto Valaičio puslapis - [https://klevas.mif.vu.lt/~valaitis](https://klevas.mif.vu.lt/~valaitis/)
 - Sauliaus Ragaišio puslapis - [https://klevas.mif.vu.lt/~ragaisis/](https://klevas.mif.vu.lt/~ragaisis/)
