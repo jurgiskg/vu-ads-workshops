@@ -38,11 +38,11 @@ Atsiskaityti reikia daugiausiai per 2 pratybas. Nuo 3-ių pratybų už kiekviena
 
 2 ir 4 laboratoriniuose darbuose drąsiai galite rašyti programas su šiomis kalbomis:
 
+- C/C++
 - Clojure
 - C#
 - Java
-- JavaScript
-- TypeScript
+- JavaScript/TypeScript
 
 Jei norite rašyti kita kalba, parašykite man per Teams.
 
