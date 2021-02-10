@@ -50,7 +50,7 @@ Jei norite rašyti kita kalba, parašykite man per Teams.
 
 Reikalingas PSP dokumentas - LFF.
 
-Savo darbe jūs turite suprogramuoti jums atsitiktinai priskirtą abstraktų duomenų tipą (ADT). Darbe privaloma naudoti rodykles _(pointers)_. Darbas turi būti atliktas su C arba C++ kalba (geriau būtų su C).
+Savo darbe jūs turite suprogramuoti jums atsitiktinai priskirtą abstraktų duomenų tipą (ADT). ADT privalo leisti saugoti bet kokius duomenis (realizacijos, kurios tinka saugoti tik konkretų duomenų tipą, netinka). Darbe privaloma naudoti rodykles _(pointers)_. Kodas rašomas su C arba C++ kalba (geriau būtų su C).
 
 Privaloma turėti _header_ failą, kuriame būtų apibrėžtos jūsų duomenų tipo operacijos. Šias operacijas realizuojantis kodas tuomet aprašomas kitame faile. Pavyzdžiui, kuriant steką, darbą galėtų sudaryti šie failai:
 
@@ -59,15 +59,11 @@ Privaloma turėti _header_ failą, kuriame būtų apibrėžtos jūsų duomenų t
 - `main.c`. Faile importuojamas `stack.h` ir rodoma, kaip veikia sukurtas stekas. 
 - `makefile` (nebūtinas). Pagalbinis failas, padedantis kompiliuoti jūsų projektą. Instrukcija, kaip sukurti makefile - [čia](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/).
 
-Jūsų ADT privalo leisti saugoti bet kokius duomenis (realizacijos, kurios tinka saugoti tik konkretų duomenų tipą (pvz. skaičius) netinka).
+Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus matomi visam pogrupiui, o kolegos jais naudosis 3-iame laboratoriniame darbe. Už panaudojimą galimi papildomi taškai:
 
-Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus matomi visam pogrupiui, o kolegos jais naudosis 3-iame laboratoriniame darbe. Už kiekvieną sėkmingą panaudojimą ADT autoriui skiriamas +1 taškas:)
-
-Papildomos galimybės už ADT gauti taškus:
-
-- jūsų ADT sėkmingai panaudotas 3-iame laboratoriniame - +1 taškas
-- jūsų ADT rastas defektas - pirmam radusiam +1 taškas
-- jūs klaidingai pranešėte apie defektą - -0.5 taško
+- ADT sėkmingai panaudotas 3-iame laboratoriniame - autoriui +1 taškas
+- ADT rastas defektas - pirmam radusiam +1 taškas
+- klaidingai pranešta apie defektą - pranešėjui -0.5 taško
 
 > Yra galimybė dviese kurti  _ilgo sveiko skaičiaus_ duomenų tipą (max 2 žmonės pogrupyje). Jeigu yra norinčių, susisiekite su manim.
 
@@ -104,3 +100,4 @@ Bus atnaujinta.
 - teorijos dėstytojo Vytauto Valaičio puslapis - [https://klevas.mif.vu.lt/~valaitis](https://klevas.mif.vu.lt/~valaitis/)
 - Sauliaus Ragaišio puslapis - [https://klevas.mif.vu.lt/~ragaisis/](https://klevas.mif.vu.lt/~ragaisis/)
 - makefile kūrimo instrukcija - [https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+- mano repozitorija, skirta šioms pratyboms - [https://github.com/jurgiskg/vu-ads-workshops](https://github.com/jurgiskg/vu-ads-workshops)
