@@ -52,11 +52,16 @@ Reikalingas PSP dokumentas - LFF.
 
 Savo darbe jūs turite suprogramuoti jums atsitiktinai priskirtą abstraktų duomenų tipą (ADT). Darbe privaloma naudoti rodykles _(pointers)_. Darbas turi būti atliktas su C arba C++ kalba (geriau būtų su C).
 
-Privaloma turėti _header_ failą, kuriame būtų apibrėžtos jūsų duomenų tipo operacijos. Šias operacijas realizuojantis kodas tuomet aprašomas kitame faile. Pavyzdžiui, kuriant steką, galite sukurti failą `stack.h`, jame apibrėžti steko funkcijas (`create`, `push`, `pop` ir t.t.), o faile `stack.c` šias funkcijas realizuoti.
+Privaloma turėti _header_ failą, kuriame būtų apibrėžtos jūsų duomenų tipo operacijos. Šias operacijas realizuojantis kodas tuomet aprašomas kitame faile. Pavyzdžiui, kuriant steką, darbą galėtų sudaryti šie failai:
+
+- `stack.h`. Faile apibrėžtos steko operacijos (`init`, `push`, `pop` ir t.t.)
+- `stack.c`. Faile realizuojamos funkcijos, apibrėžtos `stack.h`
+- `main.c`. Faile importuojamas `stack.h` ir rodoma, kaip veikia sukurtas stekas. 
+- `makefile` (nebūtinas). Pagalbinis failas, padedantis kompiliuoti jūsų projektą. Instrukcija, kaip sukurti makefile - [čia](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/).
 
 Jūsų ADT privalo leisti saugoti bet kokius duomenis (realizacijos, kurios tinka saugoti tik konkretų duomenų tipą (pvz. skaičius) netinka).
 
-Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus patalpinti į mano Google Drive, o kolegos jais naudosis 3-iame laboratoriniame darbe. Už kiekvieną sėkmingą panaudojimą ADT autoriui skiriamas +1 taškas:)
+Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus matomi visam pogrupiui, o kolegos jais naudosis 3-iame laboratoriniame darbe. Už kiekvieną sėkmingą panaudojimą ADT autoriui skiriamas +1 taškas:)
 
 Papildomos galimybės už ADT gauti taškus:
 
@@ -98,3 +103,4 @@ Bus atnaujinta.
 ## Naudingos nuorodos
 - teorijos dėstytojo Vytauto Valaičio puslapis - [https://klevas.mif.vu.lt/~valaitis](https://klevas.mif.vu.lt/~valaitis/)
 - Sauliaus Ragaišio puslapis - [https://klevas.mif.vu.lt/~ragaisis/](https://klevas.mif.vu.lt/~ragaisis/)
+- makefile kūrimo instrukcija - [https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
