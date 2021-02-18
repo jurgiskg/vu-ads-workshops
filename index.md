@@ -34,6 +34,8 @@ PSP dokumentų šablonus galite rasti Sauliaus Ragaišio [puslapyje](https://kle
 
 Atsiskaityti reikia daugiausiai per 2 pratybas. Nuo 3-ių pratybų už kiekviena papildomą atsiskaitymą skiriamas -1 taškas.
 
+Atsiskaičius, gaunate pirmenybę rinktis kitą užduotį.
+
 ### Galimos programavimo kalbos
 
 2 ir 4 laboratoriniuose darbuose drąsiai galite rašyti programas su šiomis kalbomis:
@@ -67,8 +69,17 @@ Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus matomi visam pogrupiu
 
 > Yra galimybė dviese kurti  _ilgo sveiko skaičiaus_ duomenų tipą (max 2 žmonės pogrupyje). Jeigu yra norinčių, susisiekite su manim.
 
+Darbą įkelkite į savo vardo aplanką Class Notebook (Teams -> ADS Pratybos -> Class Notebook -> _Vardas Pavardė_)
+
 ## 2 laboratorinis darbas
-Bus atnaujinta.
+
+Reikalingi PSP dokumentai - LFF ir KPS.
+
+Darbe jums reikia išspręsti algoritminį uždavinį. Galite programuoti bet kuria iš [šių](#Galimos-programavimo-kalbos) programavimo kalbų. Savo darbe pagalvokite apie:
+
+- patogų input/output (jei darbe figūruoja šachmatų lenta, reiktų ją išvesti, į terminalą ar failą)
+- skirtingus to paties uždavinio sprendinius
+- edge cases (trikampė lenta, kurios kraštinės ilgis 1, nėra trikampė lenta) 
 
 ## 3 laboratorinis darbas
 Bus atnaujinta.
