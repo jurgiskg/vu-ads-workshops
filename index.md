@@ -3,6 +3,7 @@
 ### Balai
 
 Pratybų metu galima surinkti iki 5 balų.
+
 - 4 balai už laboratorinius darbus
 - iki 1 balo už papildomus pasiekimus (mini užduotėlės, išankstiniai atsiskaitymai, kolegų ADT naudojimas, defektų radimas)
 
@@ -58,7 +59,7 @@ Privaloma turėti _header_ failą, kuriame būtų apibrėžtos jūsų duomenų t
 
 - `stack.h`. Faile apibrėžtos steko operacijos (`init`, `push`, `pop` ir t.t.)
 - `stack.c`. Faile realizuojamos funkcijos, apibrėžtos `stack.h`
-- `main.c`. Faile importuojamas `stack.h` ir rodoma, kaip veikia sukurtas stekas. 
+- `main.c`. Faile importuojamas `stack.h` ir rodoma, kaip veikia sukurtas stekas.
 - `makefile` (nebūtinas). Pagalbinis failas, padedantis kompiliuoti jūsų projektą. Instrukcija, kaip sukurti makefile - [čia](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/).
 
 Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus matomi visam pogrupiui, o kolegos jais naudosis 3-iame laboratoriniame darbe. Už panaudojimą galimi papildomi taškai:
@@ -67,47 +68,54 @@ Stenkitės kodą rašyti aiškiai - jūsų sukurti ADT bus matomi visam pogrupiu
 - ADT rastas defektas - pirmam radusiam +1 taškas
 - klaidingai pranešta apie defektą - pranešėjui -0.5 taško
 
-> Yra galimybė dviese kurti  _ilgo sveiko skaičiaus_ duomenų tipą (max 2 žmonės pogrupyje). Jeigu yra norinčių, susisiekite su manim.
+> Yra galimybė dviese kurti _ilgo sveiko skaičiaus_ duomenų tipą (max 2 žmonės pogrupyje). Jeigu yra norinčių, susisiekite su manim.
 
 Darbą įkelkite į savo vardo aplanką Class Notebook (Teams -> ADS Pratybos -> Class Notebook -> _Vardas Pavardė_)
 
 ## 2 laboratorinis darbas
 
-Reikalingi PSP dokumentai - LFF ir KPS.
+Reikalingi PSP dokumentai: LFF ir KPS.
 
 Darbe jums reikia išspręsti algoritminį uždavinį. Galite programuoti bet kuria iš [šių](#Galimos-programavimo-kalbos) programavimo kalbų. Savo darbe pagalvokite apie:
 
 - patogų input/output (jei darbe figūruoja šachmatų lenta, reiktų ją išvesti, į terminalą ar failą)
 - skirtingus to paties uždavinio sprendinius
-- edge cases (trikampė lenta, kurios kraštinės ilgis 1, nėra trikampė lenta) 
+- edge cases (trikampė lenta, kurios kraštinės ilgis 1, nėra trikampė lenta)
 
 ## 3 laboratorinis darbas
-Bus atnaujinta.
+
+Reikalingi PSP dokumentai: LFF, KPS, DVF, PDF ir PPS (be defektų dalies).
+
+Užduotyje reikia modeliuoti tam tikrą realaus pasaulio scenarijų. Scenarijų aprašymai yra gana abstraktūs, juose palikta vietos interpretacijai, siekiant imituoti realų darbą su tikslių savo poreikių nežinančiu užsakovu. Jūsų tikslas - įsigilinti į pateiktą problemą ir pateikti jai kuo realistiškesnį sprendimą. Jei kyla klausimų dėl sąlygų, kreipkitės. Idealu, jei "neišmanėliui" užsakovui pateiksite pasiūlymą, kaip modeliuoti tam tikrą situaciją:)
+
+Programą reikia atlikti C kalba. Atliekant reikia naudoti kolegų ADT, kurie nurodyti prie užduoties aprašo. ADT rasite Teams skiltyje _Class Notebook -> Content Library -> ADT_. Jei yra keletas tos pačios ADT realizacijų, galite laisvai pasirinkti, kurią naudosite.
 
 ## 4 laboratorinis darbas
+
 Bus atnaujinta.
 
 ## Užduočių atsiskaitymo tvarkaraštis
 
-| Pratybos  | 1 užd. | 2 užd. | 3 užd. | 4 užd. |
-| --------- | ------ | ------ | ------ | ------ |
-| 1   | 17  | 17  | 22  | 14  |
-| 2   | 17  | 17  | 22  | 14  |
-| 3   | 16  | 17  | 22  | 14  |
-|**4**| **15**  | 17  | 22  | 14  |
-| 5   | 12  | 17  | 22  | 14  |
-| 6   | 9   | 17  | 22  | 14  |
-| 7   | 6   | 16  | 22  | 14  |
-| **8**   | 3   | **15**  | 22  | 14  |
-| 9   | 2   | 12  | 22  | 14  |
-| 10  | 1   | 9   | 21  | 14  |
-| **11**  | 0   | 6   | **20**  | 14  |
-| 12  | 0   | 3   | 16  | 14  |
-| 13  | 0   | 2   | 12  | 13  |
-| **14**  | 0   | 1   | 8   | **12**  |
-| 15  | 0   | 0   | 4   | 10  |
+| Pratybos | 1 užd. | 2 užd. | 3 užd. | 4 užd. |
+| -------- | ------ | ------ | ------ | ------ |
+| 1        | 17     | 17     | 22     | 14     |
+| 2        | 17     | 17     | 22     | 14     |
+| 3        | 16     | 17     | 22     | 14     |
+| **4**    | **15** | 17     | 22     | 14     |
+| 5        | 12     | 17     | 22     | 14     |
+| 6        | 9      | 17     | 22     | 14     |
+| 7        | 6      | 16     | 22     | 14     |
+| **8**    | 3      | **15** | 22     | 14     |
+| 9        | 2      | 12     | 22     | 14     |
+| 10       | 1      | 9      | 21     | 14     |
+| **11**   | 0      | 6      | **20** | 14     |
+| 12       | 0      | 3      | 16     | 14     |
+| 13       | 0      | 2      | 12     | 13     |
+| **14**   | 0      | 1      | 8      | **12** |
+| 15       | 0      | 0      | 4      | 10     |
 
 ## Naudingos nuorodos
+
 - teorijos dėstytojo Vytauto Valaičio puslapis - [https://klevas.mif.vu.lt/~valaitis](https://klevas.mif.vu.lt/~valaitis/)
 - Sauliaus Ragaišio puslapis - [https://klevas.mif.vu.lt/~ragaisis/](https://klevas.mif.vu.lt/~ragaisis/)
 - makefile kūrimo instrukcija - [https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
