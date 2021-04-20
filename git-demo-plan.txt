@@ -1,0 +1,16 @@
+Git
+
+Why
+    - to avoid stack-final.c, stack-final-final.c, stack-final-final-v2.c and similar naming hell
+    - to have the possibility to try separate implementations (branching)
+    - to be able to track and compare what changed, including going 'back in time'
+    - to start putting up your coding resume in a hosted repo (e.g. GitHub)
+    - because you'll use it at work
+
+Today
+    - init a repo
+    - commit and push, avoiding unwanted files
+    - branch out
+    - merge changes with a merge request
+    - brief intro on rewriting history (amends, rebases)
+    

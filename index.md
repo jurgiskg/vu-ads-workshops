@@ -76,7 +76,7 @@ Darbą įkelkite į savo vardo aplanką Class Notebook (Teams -> ADS Pratybos ->
 
 Reikalingi PSP dokumentai: LFF ir KPS.
 
-Darbe jums reikia išspręsti algoritminį uždavinį. Galite programuoti bet kuria iš [šių](#Galimos-programavimo-kalbos) programavimo kalbų. Savo darbe pagalvokite apie:
+Darbe jums reikia išspręsti algoritminį uždavinį. Galite programuoti bet kuria iš [šių](#galimos-programavimo-kalbos) programavimo kalbų. Savo darbe pagalvokite apie:
 
 - patogų input/output (jei darbe figūruoja šachmatų lenta, reiktų ją išvesti, į terminalą ar failą)
 - skirtingus to paties uždavinio sprendinius
@@ -92,7 +92,11 @@ Programą reikia atlikti C kalba. Atliekant reikia naudoti kolegų ADT, kurie nu
 
 ## 4 laboratorinis darbas
 
-Bus atnaujinta.
+Reikalingi PSP dokumentai: LFF, KPS, DVF, PDF ir PPS (be defektų dalies).
+
+Užduotyje reikia išspręsti grafų uždavinį. Atlikti užduotį galite su bet kuria iš [šių](#galimos-programavimo-kalbos) programavimo kalbų.
+
+Duomenų įvedimui naudokite failą (.txt, .json arba .xml). Atliekant užduotį būtina paisyti sąlygoje nurodytų algoritmų (grafo realizacijos, paieškos).
 
 ## Užduočių atsiskaitymo tvarkaraštis
 
